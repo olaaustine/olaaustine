@@ -1,7 +1,8 @@
 # Hi, I'm Ola
 
 🎓 **Software Engineer**  
-💡 Passionate about solving real-world problems with AI  
+💡 Passionate about solving real-world problems with AI 
+💡 Passionate about building scalable backend APIs
 🌐 I believe in creating value, not just writing code.
 My future career goal is to be 1 of 1 
 
