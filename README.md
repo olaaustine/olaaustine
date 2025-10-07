@@ -1,16 +1,42 @@
-# Ola Jaden Austine
+# Hi, I'm Ola
 
-# Languages
-Python    
-VueJS
-SQL      
+🎓 **Software Engineer**  
+💡 Passionate about solving real-world problems with AI  
+🌐 I believe in creating value, not just writing code.
+My future career goal is to be 1 of 1 
 
-# Tools & Systems
-Redis     # fast and versatile
-Postgres  # relational power
-Docker    # containerized clarity
-AWS      # Because well the cloud 
-GitHub   # heyyy- version control
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Python" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="JavaScript" width="60" height="60"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="SQL" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/main/gemini.jpg?raw=true" alt="Gemini" width="105" height="60"/>
+</p>
+
+---
 
 
-[![Ola's GitHub stats](https://github-readme-stats.vercel.app/api?username=olaaustine&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olaaustine&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/olaaustine)
+- 📧 Email: austineolanrewaju@gmail.com
+
+---
+
+<p align="center"><em>“Code is a tool. Business is the engine. Vision is the fuel.”</em></p>
+
+
