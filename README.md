@@ -16,7 +16,6 @@ My future career goal is to be 1 of 1
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="SQL" width="60" height="60"/>
   &nbsp;
-  <img src="https://github.com/DevEnjoysMath/DevEnjoysMath/blob/main/gemini.jpg?raw=true" alt="Gemini" width="105" height="60"/>
 </p>
 
 ---
