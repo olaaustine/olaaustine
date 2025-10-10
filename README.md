@@ -3,7 +3,7 @@
 **Software Engineer**  
 - 💡 Passionate about solving real-world problems with AI and building scalable backend APIs 
 - 🌐 I believe in creating value, not just writing code.  
-- 🔮 My future career goal is to be 1 of 1
+- 🔮 My goal is to build a career that reflects unique impact where the value I bring isn’t interchangeable.
 
 ---
 
