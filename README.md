@@ -26,6 +26,8 @@
   &nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="JavaScript" width="60" height="60"/>
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="JavaScript" width="60" height="60"/>
+  &nbsp;
 </p>
 
 ---
